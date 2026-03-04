@@ -1,10 +1,16 @@
-.block{
-    border-radius: 30px;
-    background-color: blue;
-    color: aliceblue;
-    display: block;
+body {
+
+    background-color: rgb(240, 240, 240);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+
 }
 
-#otto{
-    padding: 150px;
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(0, 60, 255);
+    color: antiquewhite;
 }
