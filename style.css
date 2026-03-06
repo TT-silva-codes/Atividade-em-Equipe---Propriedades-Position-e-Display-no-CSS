@@ -16,24 +16,32 @@ body {
     font-size: large;
 }
 
-#otto{
+#otto {
     border-radius: 200px;
-   
+
 }
 
-#André {
-    display: i ;
+.inline{
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(0, 60, 255);
+    color: rgb(0, 0, 0);
+    font-size: large;
 }
 
+.flow{
+    display: inline flow;
+}
 .block1 {
-   border-radius: 200px;
-   background-color: rgb(101, 173, 255); 
+    border-radius: 200px;
+    background-color: rgb(101, 173, 255);
 }
 
 .block {
    border-radius: 200px;
    background-color: rgb(101, 173, 255);
-   display: block;
 }
 
 .displayinline {
@@ -50,3 +58,18 @@ body {
   background-color: rgb(101, 173, 255);
   
 }
+#Container-B{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(0, 60, 255);
+    color: antiquewhite;
+    font-size: large;
+}
+#Container_B2{
+   gap: 10px;
+   margin: 10px;
+   padding: 20px;
+}
+
