@@ -34,3 +34,19 @@ body {
    border-radius: 200px;
    background-color: rgb(101, 173, 255);
 }
+
+#Container-B{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: rgb(0, 60, 255);
+    color: antiquewhite;
+    font-size: large;
+}
+#Container_B2{
+   gap: 10px;
+   margin: 10px;
+   padding: 20px;
+}
+
