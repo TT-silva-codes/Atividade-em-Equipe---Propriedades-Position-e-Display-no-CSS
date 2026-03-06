@@ -36,9 +36,17 @@ body {
    display: block;
 }
 
-.inline-flex {
+.displayinline {
   display: inline-flex;
-  align-items: center;
   padding: 20px;
-   display: block;
+  background-color: rgb(101, 173, 255);
+  
+
+}
+
+.displayinline1 {
+  display: inline-flex;
+  padding: 20px;
+  background-color: rgb(101, 173, 255);
+  
 }
