@@ -18,6 +18,30 @@ body {
 
 #otto{
     border-radius: 200px;
-    height: 75px;
-    width: 50px;
+   
+}
+
+#André {
+    display: i ;
+}
+
+.block1 {
+   border-radius: 200px;
+   background-color: blue; 
+}
+.block2 {
+   border-radius: 200px;
+   background-color: blue; 
+}
+.block3 {
+   border-radius: 200px;
+   background-color: blue; 
+}
+.block4 {
+   border-radius: 200px;
+   background-color: blue; 
+}
+.block5 {
+   border-radius: 200px;
+   background-color: blue; 
 }
