@@ -21,8 +21,8 @@ body {
 
 }
 
-.inline {
-    display: inline ;
+.inline{
+    display: inline-flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px;
@@ -31,8 +31,9 @@ body {
     font-size: large;
 }
 
-.flow
-
+.flow{
+    display: inline flow;
+}
 .block1 {
     border-radius: 200px;
     background-color: rgb(101, 173, 255);
