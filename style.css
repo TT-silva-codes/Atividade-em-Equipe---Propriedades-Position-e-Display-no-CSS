@@ -34,3 +34,9 @@ body {
    border-radius: 200px;
    background-color: rgb(101, 173, 255);
 }
+
+.inline-flex {
+  display: inline-flex;
+  align-items: center;
+  padding: 20px;
+}
