@@ -26,21 +26,10 @@ body {
 
 .block1 {
    border-radius: 200px;
-   background-color: blue; 
+   background-color: rgb(101, 173, 255); 
 }
-.block2 {
+
+.block {
    border-radius: 200px;
-   background-color: blue; 
-}
-.block3 {
-   border-radius: 200px;
-   background-color: blue; 
-}
-.block4 {
-   border-radius: 200px;
-   background-color: blue; 
-}
-.block5 {
-   border-radius: 200px;
-   background-color: blue; 
+   background-color: rgb(101, 173, 255);
 }
