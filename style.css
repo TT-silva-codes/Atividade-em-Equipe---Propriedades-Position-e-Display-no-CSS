@@ -1,6 +1,4 @@
 body {
-
-    background-color: rgb(240, 240, 240);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     align-items: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -139,4 +137,8 @@ body {
     gap: 10px;
     margin: 10px;
     padding: 20px;
+}
+
+.Bruno{
+    background-color: red;
 }
