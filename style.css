@@ -187,3 +187,15 @@ body {
     padding: 20px;
     text-align: center;
 }
+.container3{
+    display: inline-grid;
+    grid-template-columns: 50px 50px;
+    gap: 5px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 5px;
+}
+.inline-grid{
+    background: lightgreen;
+    text-align: center;
+}
