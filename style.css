@@ -140,33 +140,31 @@ body {
 }
 
 #Bruno{
-    background-color: white;
-    padding: 10px;
-    border-radius: 20px;
+    background-color: #224f7c;
 }
-.table1{
+
+.table{
     display: table;
-    background-color: #123ee9;
-    padding: 10px;
+    }
+    
+.block-flow{
+   display: block;
 }
-.cell{
-    display: table-cell;
-    background-color: rgb(101,173,255);
-    margin: 10px;
-    padding: 10px;
-    border-radius: 20px;
+    
+.block-flex{
+   display: flex;
+   gap: 10px;
+   flex-wrap: wrap;
 }
-.table2{
-    display: table-row;
-    background-color: #123ee9;
-    padding: 10px;
+    
+.block-grid{
+  display: grid;
+  grid-template-columns: repeat(3, 120px);
+  gap: 10px;
 }
-.row{
-    display: table-row;
-    background-color:rgb(101,173,255);
-    margin: 10px;
-    padding: 10px;
-    border-radius: 20px;
+    
+.block-flowroot{
+  display: flow-root;
 }
 .box{
     display: inline-flex;
