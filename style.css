@@ -177,3 +177,13 @@ body {
 #Favero{
     background-color: #123ee9;
 }
+.container2{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px; 
+}
+.displaygrid{
+    background: lightblue;
+    padding: 20px;
+    text-align: center;
+}
