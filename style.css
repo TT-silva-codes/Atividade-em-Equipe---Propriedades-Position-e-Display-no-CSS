@@ -122,6 +122,32 @@ body {
     padding: 20px;
 }
 
-.Bruno{
-    background-color: red;
+#Bruno{
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+.table1{
+    display: table;
+    background-color: #123ee9;
+    padding: 10px;
+}
+.cell{
+    display: table-cell;
+    background-color: rgb(101,173,255);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.table2{
+    display: table-row;
+    background-color: #123ee9;
+    padding: 10px;
+}
+.row{
+    display: table-row;
+    background-color:rgb(101,173,255);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
 }
