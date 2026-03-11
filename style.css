@@ -196,6 +196,18 @@ body {
     margin: 5px;
 }
 .inline-grid{
-    background: lightgreen;
+    background: lightblue;
     text-align: center;
+}
+.container4{
+    display: flow-root;
+    border: 2px solid black;
+}
+
+.flowroot{
+    float: left;
+    width: 100px;
+    height: 100px;
+    background: lightblue;
+    margin: 10px;
 }
