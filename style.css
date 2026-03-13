@@ -57,6 +57,12 @@ body {
     border-radius: 40px;
 }
 
+.block2{
+    background-color: bisque;
+    width: 700px;
+    height: 700px;
+}
+
 .flow {
     display: inline flow;
 }
@@ -80,6 +86,10 @@ body {
 
 .flowroot {
     display: inline flow-root;
+     background: linear-gradient(to right, #7ab0e6, #5d95d4);
+    padding: 15px;
+    margin: 10px;
+    border-radius: 40px;
 }
 
 .block {
@@ -210,4 +220,7 @@ body {
     height: 100px;
     background: lightblue;
     margin: 10px ;
+}
+.Imgs{
+    
 }
