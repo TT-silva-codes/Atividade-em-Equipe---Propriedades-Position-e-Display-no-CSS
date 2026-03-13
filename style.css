@@ -248,6 +248,9 @@ body {
     margin-left: 600px;
     margin-right: 200px;
 }
+.Imgs{
+    
+}
 
 .img{
     bottom: 10px;
@@ -255,4 +258,20 @@ body {
     height: 200px;
     width: 200px;
     position: fixed;
+}
+
+#casaco{
+     border-radius: 200;
+    background-color: #123ee9;
+    margin-bottom: 10px;
+}
+
+.absolute{
+    position: absolute;
+     border-radius: 500px;
+    background-color: rgb(101, 173, 255);
+    color: antiquewhite;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 2px;
 }
