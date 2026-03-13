@@ -239,13 +239,13 @@ body {
 }
 
 .Relative{
-     display: flex;
+    display: flex;
     position: static;
-    justify-content: center;
+    
     background-color: #224f7c;
-     border: black 7px solid;
+    border: black 7px solid;
     border-radius: 20px;
-    width: 700px;
+    width: 900px;
     height: 300px;
     margin-left: 600px;
     margin-right: 200px;
@@ -266,10 +266,22 @@ body {
      border-radius: 200;
     background-color: #123ee9;
     margin-bottom: 10px;
+    margin-left: 400px;
+    margin-right: 200px;
 }
 
 .absolute{
     position: absolute;
+     border: 500px;
+    background-color: rgb(101, 173, 255);
+    color: antiquewhite;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 2px;
+}
+
+.absolute02{
+     position: absolute;
      border-radius: 500px;
     background-color: rgb(101, 173, 255);
     color: antiquewhite;
@@ -282,4 +294,9 @@ body {
     top: 0;
     background-color: rgb(101, 173, 255);
     
+}
+
+.abstitle{
+    margin-left: 175px;
+    margin-right: 45px;
 }
