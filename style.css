@@ -241,7 +241,6 @@ body {
 .Relative{
     display: flex;
     position: static;
-    
     background-color: #224f7c;
     border: black 7px solid;
     border-radius: 20px;
