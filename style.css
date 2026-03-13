@@ -8,27 +8,29 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
-    background-color: rgb(0, 60, 255);
+    padding: 5px;
+    background-color: #224f7c;
     color: antiquewhite;
     font-size: large;
+    position: sticky;
+    top: 0;
 }
 
 #otto {
     border-radius: 200;
-    background-color: #123ee9;
+    background-color: #224f7c;
     margin-bottom: 10px;
 }
 
 #jose{
     border-radius: 300;
-    background-color: #123ee9;
+    background-color: #224f7c;
     margin-bottom: 10px;
 }
 
 #sestrem{
     border: 300px;
-    background-color: #0a2383;
+    background-color: #224f7c;
     color: antiquewhite;
     padding: 25;
     margin-bottom: 10px;
@@ -36,14 +38,14 @@ body {
 
 #silva{
     border-radius: 300;
-    background-color: #0a2383;
+    background-color: #224f7c;
     color: antiquewhite;
     padding: 25px;
     margin-bottom: 10px;
 }
 
 .inline {
-    background: #123ee9;
+    background: #224f7c;
     padding: 40px;
     display: flex;
     flex-direction: column;
@@ -185,7 +187,7 @@ body {
     background-color:rgb(101,173,255);
 }
 #Favero{
-    background-color: #123ee9;
+    background-color: #224f7c;
 }
 .container2{
     display: grid;
@@ -239,7 +241,6 @@ body {
 .Relative{
     display: flex;
     position: static;
-    
     background-color: #224f7c;
     border: black 7px solid;
     border-radius: 20px;
@@ -283,6 +284,12 @@ body {
     margin-left: 200px;
     margin-right: 200px;
     margin-top: 2px;
+}
+.menu{
+    position: sticky;
+    top: 0;
+    background-color: rgb(101, 173, 255);
+    
 }
 
 .abstitle{
