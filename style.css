@@ -218,10 +218,6 @@ body {
 
 .flowroot{
     float: left;
-    width: 100px;
-    height: 100px;
-    background: lightblue;
-    margin: 10px ;
 }
 .Static{
     display: flex;
