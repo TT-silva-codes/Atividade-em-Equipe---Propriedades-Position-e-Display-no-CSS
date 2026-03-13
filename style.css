@@ -221,6 +221,16 @@ body {
     background: lightblue;
     margin: 10px ;
 }
+<<<<<<< HEAD
 .Imgs{
     
 }
+=======
+
+.img{
+    bottom: 10px;
+    padding: 5px;
+    height: 200px;
+    width: 200px;
+}
+>>>>>>> 625e3562d6ca424ecdd8e2ca038796f0b0f23f96
