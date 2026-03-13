@@ -221,11 +221,33 @@ body {
     background: lightblue;
     margin: 10px ;
 }
-<<<<<<< HEAD
-.Imgs{
+.Static{
+    display: flex;
+    position: static;
+    justify-content: center;
+    background-color: #224f7c;
+    border: black 7px solid;
+    border-radius: 20px;
+    width: 700px;
+    height: 300px;
+    margin-left: 600px;
+    margin-right: 200px;
+    gap: 10px;
     
 }
-=======
+
+.Relative{
+     display: flex;
+    position: static;
+    justify-content: center;
+    background-color: #224f7c;
+     border: black 7px solid;
+    border-radius: 20px;
+    width: 700px;
+    height: 300px;
+    margin-left: 600px;
+    margin-right: 200px;
+}
 
 .img{
     bottom: 10px;
@@ -234,4 +256,3 @@ body {
     width: 200px;
     position: fixed;
 }
->>>>>>> 625e3562d6ca424ecdd8e2ca038796f0b0f23f96
