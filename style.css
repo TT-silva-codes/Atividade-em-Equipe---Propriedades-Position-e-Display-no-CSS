@@ -269,7 +269,7 @@ body {
 .absolute{
     position: absolute;
      border: 500px;
-    background-color: rgb(101, 173, 255);
+    background-color: #224f7c;
     color: antiquewhite;
     margin-left: 200px;
     margin-right: 200px;
@@ -279,7 +279,7 @@ body {
 .absolute02{
      position: absolute;
      border-radius: 500px;
-    background-color: rgb(101, 173, 255);
+    background-color: #224f7c;
     color: antiquewhite;
     margin-left: 200px;
     margin-right: 200px;
@@ -288,7 +288,7 @@ body {
 .menu{
     position: sticky;
     top: 0;
-    background-color: rgb(101, 173, 255);
+    background-color: #224f7c;
     
 }
 
