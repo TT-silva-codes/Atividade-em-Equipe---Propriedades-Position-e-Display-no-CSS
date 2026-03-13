@@ -221,11 +221,9 @@ body {
     background: lightblue;
     margin: 10px ;
 }
-<<<<<<< HEAD
 .Imgs{
     
 }
-=======
 
 .img{
     bottom: 10px;
@@ -234,4 +232,19 @@ body {
     width: 200px;
     position: fixed;
 }
->>>>>>> 625e3562d6ca424ecdd8e2ca038796f0b0f23f96
+
+#casaco{
+     border-radius: 200;
+    background-color: #123ee9;
+    margin-bottom: 10px;
+}
+
+.absolute{
+    position: absolute;
+     border-radius: 500px;
+    background-color: rgb(101, 173, 255);
+    color: antiquewhite;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 2px;
+}
