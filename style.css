@@ -240,7 +240,7 @@ body {
 
 .Relative{
     display: flex;
-    position: static;
+    position: relative;
     background-color: #224f7c;
     border: black 7px solid;
     border-radius: 20px;
@@ -248,6 +248,7 @@ body {
     height: 300px;
     margin-left: 600px;
     margin-right: 200px;
+    justify-content: center;
 }
 
 .img{
@@ -264,12 +265,15 @@ body {
     margin-bottom: 10px;
     margin-left: 400px;
     margin-right: 200px;
+    width: 400px;
 }
 
 .absolute{
     position: absolute;
      border: 500px;
     background-color: #224f7c;
+    border: black 7px solid;
+    border-radius: 20px;
     color: antiquewhite;
     margin-left: 200px;
     margin-right: 200px;
@@ -277,9 +281,11 @@ body {
 }
 
 .absolute02{
-     position: absolute;
-     border-radius: 500px;
+    position: absolute;
+    border-radius: 500px;
     background-color: #224f7c;
+    border: black 7px solid;
+    border-radius: 20px;
     color: antiquewhite;
     margin-left: 200px;
     margin-right: 200px;
